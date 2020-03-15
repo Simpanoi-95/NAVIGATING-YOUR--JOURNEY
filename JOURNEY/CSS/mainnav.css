@@ -1,0 +1,76 @@
+body{
+	background-color:#fefbd8;
+	font-style: oblique;
+	font-size: 20px;
+	background-image: url(https://www.designyourway.net/blog/wp-content/uploads/2018/09/photo-1516642898673-edd1ced.jpg);
+	background-size: cover;
+	margin: 30;
+}
+
+h1{
+	text-align:center;
+	font-size: 50px;
+	font-style: oblique;
+	text-decoration: underline;
+	text-transform: uppercase;
+	
+}
+h2{
+	font-size: 30x;
+	text-align:center;
+	text-decoration: underline;
+	text-transform: uppercase;
+
+}
+
+h3{
+	font-size: 30px;
+	text-align:center;
+}
+
+h4{
+	font-size: 30px;
+	text-align: center;
+}
+
+div 1{
+	float: right;
+	padding: 40px;
+}
+
+div 2{
+
+	float: left;
+	padding: 30px;
+}
+.topic{
+	color: green;
+
+}
+.summary{
+	color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
